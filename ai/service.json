@@ -1,0 +1,81 @@
+{
+  "services": [
+    {
+      "name": "Private Tours",
+      "description": "Customized private tours tailored to your interests and schedule. Enjoy personalized attention from our expert guides and flexible itineraries that suit your preferences.",
+      "features": [
+        "Personalized attention from dedicated guide",
+        "Flexible itineraries tailored to your interests",
+        "Convenient schedule at your pace",
+        "Exclusive experiences not available to regular groups",
+        "Comfortable private transportation"
+      ]
+    },
+    {
+      "name": "Family Tours",
+      "description": "Family-friendly tours designed for all ages with engaging activities. Create lasting memories with your loved ones while exploring China's most fascinating destinations.",
+      "features": [
+        "Family-friendly activities for all ages",
+        "Comfortable family accommodations",
+        "Flexible itineraries with rest time",
+        "Educational experiences for children",
+        "Family-focused guides"
+      ]
+    },
+    {
+      "name": "Study Tours",
+      "description": "Educational tours focused on Chinese culture, history, and language. Perfect for students and educational institutions looking to enhance their learning experience.",
+      "features": [
+        "Structured learning experiences",
+        "Cultural immersion opportunities",
+        "Expert guides with educational backgrounds",
+        "Hands-on activities",
+        "Customizable programs for specific academic disciplines"
+      ]
+    },
+    {
+      "name": "Team Building Tours",
+      "description": "Corporate team building activities and tours for your organization. Strengthen team bonds while exploring China's cultural and natural attractions.",
+      "features": [
+        "Team bonding activities",
+        "Cultural experiences",
+        "Customized programs for organizational goals",
+        "Professional facilitators",
+        "Memorable team experiences"
+      ]
+    },
+    {
+      "name": "Custom Tours",
+      "description": "Completely customized travel experiences based on your specific needs. Tell us your vision, and we'll create a tailored itinerary that exceeds your expectations.",
+      "features": [
+        "Personalized itinerary design",
+        "Flexible planning process",
+        "Exclusive experiences",
+        "Expert guidance",
+        "Seamless execution"
+      ]
+    },
+    {
+      "name": "Business Travel",
+      "description": "Professional business travel services with meeting and conference arrangements. Let us handle the logistics while you focus on your business objectives.",
+      "features": [
+        "Efficient travel planning",
+        "Professional support",
+        "Cost optimization",
+        "Meeting arrangements",
+        "Flexible options for business needs"
+      ]
+    },
+    {
+      "name": "East China Tours",
+      "description": "Comprehensive tours of East China's most popular destinations. Explore the rich cultural heritage and natural beauty of this fascinating region.",
+      "features": [
+        "Rich cultural heritage sites",
+        "Stunning natural landscapes",
+        "Vibrant cities",
+        "Convenient travel between destinations",
+        "Authentic local cuisine"
+      ]
+    }
+  ]
+}

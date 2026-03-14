@@ -1,0 +1,24 @@
+{
+  "faqs": [
+    {
+      "question": "What services do you offer?",
+      "answer": "We offer a wide range of travel services including private tours, family tours, study tours, team building tours, custom tours, business travel, and East China tours."
+    },
+    {
+      "question": "What destinations do you cover?",
+      "answer": "We cover popular destinations in China including Beijing, Shanghai, Hangzhou, Suzhou, Nanjing, Wuxi, and also offer Japan tours."
+    },
+    {
+      "question": "How can I book a tour?",
+      "answer": "You can book a tour by contacting us via email at 932168783@qq.com or by phone at 180-1236-1217. Our travel experts will help you create a customized itinerary based on your interests and requirements."
+    },
+    {
+      "question": "Do you provide English-speaking guides?",
+      "answer": "Yes, all our guides are professional English-speaking guides with in-depth knowledge of the destinations and cultures."
+    },
+    {
+      "question": "Can you customize tours according to my needs?",
+      "answer": "Yes, we specialize in creating customized tour experiences tailored to your specific interests, schedule, and budget."
+    }
+  ]
+}
